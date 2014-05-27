@@ -1,5 +1,7 @@
 # sowpods-five
 
+[![Build Status](https://travis-ci.org/KenanY/sowpods-five.svg)](https://travis-ci.org/KenanY/sowpods-five)
+
 5-letter words in [SOWPODS](https://en.wikipedia.org/wiki/SOWPODS).
 
 ## Example
