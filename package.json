@@ -23,7 +23,6 @@
     "test": "tape test/index.js"
   },
   "devDependencies": {
-    "lodash.isarray": "^2.4.1",
     "tape": "^2.13.1"
   }
 }
