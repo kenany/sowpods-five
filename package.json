@@ -20,9 +20,12 @@
     "test": "test"
   },
   "scripts": {
+    "pretest": "eslint *.js test/*.js",
     "test": "tape test/index.js"
   },
   "devDependencies": {
+    "@kenan/eslint-config": "^3.0.0",
+    "eslint": "^3.6.0",
     "tape": "^4.6.0"
   }
 }
