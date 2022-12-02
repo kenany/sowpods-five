@@ -1,8 +1,8 @@
-var test = require('tape');
+const test = require('tape');
 
-var sowpodsFive = require('../');
+const sowpodsFive = require('../');
 
-test('exports an array', function(t) {
+test('exports an array', (t) => {
   t.plan(1);
   t.ok(Array.isArray(sowpodsFive));
 });
