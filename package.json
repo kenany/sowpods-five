@@ -8,7 +8,7 @@
     "scrabble",
     "words"
   ],
-  "repository": "KenanY/sowpods-five",
+  "repository": "github:kenany/sowpods-five",
   "license": "MIT",
   "author": "Kenan Yildirim <kenan@kenany.me> (https://kenany.me/)",
   "main": "index.js",
@@ -20,7 +20,7 @@
     "test": "test"
   },
   "engines": {
-    "node": "14 || 16 || >=18"
+    "node": "18 || >=20"
   },
   "scripts": {
     "lint": "eslint *.js test/*.js",
