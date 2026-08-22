@@ -1,4 +1,7 @@
-module.exports = [
+/**
+ * All 5-letter words in the SOWPODS word list, in alphabetical order.
+ */
+export const sowpodsFive: readonly string[] = [
   'aahed',
   'aalii',
   'aargh',
@@ -12476,5 +12479,5 @@ module.exports = [
   'zurfs',
   'zygal',
   'zygon',
-  'zymic'
+  'zymic',
 ];

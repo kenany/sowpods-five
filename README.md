@@ -5,7 +5,7 @@
 ## Example
 
 ``` javascript
-var sowpodsFive = require('sowpods-five');
+import { sowpodsFive } from 'sowpods-five';
 // => [
 // =>   'aahed',
 // =>   'aalii',
@@ -26,9 +26,9 @@ $ npm install sowpods-five
 ## API
 
 ``` javascript
-var sowpodsFive = require('sowpods-five');
+import { sowpodsFive } from 'sowpods-five';
 ```
 
-### sowpodsFive
+### `sowpodsFive`
 
 An _Array_ of 5-letter words.
