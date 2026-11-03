@@ -4,7 +4,7 @@
 
 ## Example
 
-``` javascript
+```javascript
 import { sowpodsFive } from 'sowpods-five';
 // => [
 // =>   'aahed',
@@ -19,13 +19,13 @@ import { sowpodsFive } from 'sowpods-five';
 
 ## Installation
 
-``` bash
+```bash
 $ npm install sowpods-five
 ```
 
 ## API
 
-``` javascript
+```javascript
 import { sowpodsFive } from 'sowpods-five';
 ```
 
